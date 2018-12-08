@@ -1,6 +1,6 @@
 # LoginLibrary
 
-For using this OTP Login Library  in your app, you need to get head_number, sid, sub_url1, sub_url2 by contacting me.
+For using this OTP Login Library  in your app, you need to get head_number, sid, sub_url1, sub_url2 by contacting me.  
 You can find me with: mohammad.samadi1373[at]gmail.com
 
 Add dependencies
