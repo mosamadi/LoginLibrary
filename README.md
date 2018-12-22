@@ -73,7 +73,7 @@ dependencies {
 **Step 4.**  Add this permission to your application manifests:
 
 
-```xml
+```
 <uses-permission android:name="android.permission.INTERNET" />
     
 <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
