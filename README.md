@@ -69,5 +69,19 @@ dependencies {
         
 ```
 
+```
+**Step 4.**  Add this permission to your application manifests:
 
+
+```
+ <uses-permission android:name="android.permission.INTERNET" />
+    
+<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+<uses-permission android:name="android.permission.REORDER_TASKS" />
+
+<uses-permission android:name="android.permission.READ_SMS" />
+
+<uses-permission android:name="android.permission.RECEIVE_SMS" />
+
+```
 
