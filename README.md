@@ -52,7 +52,7 @@ dependencies {
             intent.putExtra("sub_url2", sub_url2);
             intent.putExtra("first_activity", first_activity);
 
-            intent.putExtra("package_name", "club.botable.mcihub.testapplictaion");
+            intent.putExtra("package_name", package_name);
 
 //        intent.putse("first_activity",MainActivity.class);
             startActivity(intent);
