@@ -32,7 +32,7 @@ dependencies {
 **Step 3.**  Initiate these strings camp_name,sid,welcome,farsi_name_str,head_number,sub_url1,sub_url2,first_activity,package_name with proper values. Then Add this part of code to onCreated method of your first activity (first_activity is name of your first activity in string format for example "MainActivity") :
 
 
-```
+```java
 @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -73,7 +73,7 @@ dependencies {
 **Step 4.**  Add this permission to your application manifests:
 
 
-```
+```xml
  <uses-permission android:name="android.permission.INTERNET" />
     
 <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
